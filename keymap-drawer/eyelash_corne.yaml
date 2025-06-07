@@ -15,9 +15,9 @@ layers:
   - P
   - {t: '-', s: _}
   - $$mdi:alpha-w-box$$
-  - {t: A, h: '$$mdi:apple-keyboard-control$$'}
+  - {t: A, h: LGUI}
   - {t: S, h: '$$mdi:apple-keyboard-option$$'}
-  - {t: D, h: LGUI}
+  - {t: D, h: '$$mdi:apple-keyboard-control$$'}
   - {t: F, h: '$$mdi:apple-keyboard-shift$$'}
   - G
   - {t: '$$mdi:menu-left$$', s: '$$mdi:mouse$$'}
@@ -25,9 +25,9 @@ layers:
   - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
   - H
   - {t: J, h: '$$mdi:apple-keyboard-shift$$'}
-  - {t: K, h: RGUI}
+  - {t: K, h: '$$mdi:apple-keyboard-control$$'}
   - {t: L, h: '$$mdi:apple-keyboard-option$$'}
-  - {t: ;, h: '$$mdi:apple-keyboard-control$$', s: ':'}
+  - {t: ;, h: RGUI, s: ':'}
   - {t: '''', s: '"'}
   - $$mdi:apple-keyboard-shift$$
   - Z
