@@ -288,7 +288,7 @@ layers:
   - PG UP
   - END
   - '&studio_unlock'
-  - {t: '$$mdi:transfer$$', type: trans}
+  - '&bl BL_ON'
   - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
