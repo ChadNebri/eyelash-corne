@@ -13,7 +13,7 @@ layers:
   - I
   - O
   - P
-  - {t: '$$mdi:backspace$$', type: backspace}
+  - {t: '-', s: _}
   - $$mdi:apple-keyboard-control$$
   - {t: A, h: LGUI}
   - {t: S, h: '$$mdi:apple-keyboard-option$$'}
@@ -21,7 +21,7 @@ layers:
   - {t: F, h: '$$mdi:apple-keyboard-shift$$'}
   - G
   - $$mdi:arrow-left-bold$$
-  - $$mdi:mouse-left-click-outline$$
+  - {t: '$$mdi:keyboard-return$$', type: enter}
   - $$mdi:arrow-right-bold$$
   - H
   - {t: J, h: '$$mdi:apple-keyboard-shift$$'}
@@ -45,12 +45,12 @@ layers:
   - $$mdi:keyboard-tab$$
   - {t: '$$mdi:backspace-reverse-outline$$', h: GAMING}
   - {t: '$$mdi:apple-keyboard-command$$', h: SYSTEM}
-  - {t: '$$mdi:keyboard-space$$', h: NUMBER}
+  - {t: '$$mdi:backspace$$', h: NUMBER}
   - {t: '$$mdi:keyboard-space$$', h: SYMBOL}
   - {t: '$$mdi:keyboard-return$$', h: SYSTEM}
   - {t: '$$mdi:keyboard-tab$$', h: LOWER}
   COLEMAK:
-  - {t: '`', s: '~'}
+  - $$mdi:keyboard-esc$$
   - Q
   - W
   - F
@@ -63,7 +63,7 @@ layers:
   - Y
   - .
   - {t: '-', s: _}
-  - $$mdi:alpha-w-box$$
+  - $$mdi:apple-keyboard-control$$
   - {t: A, h: LGUI}
   - {t: R, h: '$$mdi:apple-keyboard-option$$'}
   - {t: S, h: '$$mdi:apple-keyboard-control$$'}
@@ -80,7 +80,7 @@ layers:
   - {t: ;, s: ':'}
   - $$mdi:apple-keyboard-shift$$
   - X
-  - X
+  - C
   - D
   - V
   - Z
@@ -93,7 +93,7 @@ layers:
   - {t: /, s: '?'}
   - $$mdi:keyboard-tab$$
   - {t: '$$mdi:backspace-reverse-outline$$', h: GAMING}
-  - {t: '$$mdi:keyboard-esc$$', h: SYSTEM}
+  - {t: '$$mdi:apple-keyboard-command$$', h: SYSTEM}
   - {t: '$$mdi:backspace$$', h: NUMBER}
   - {t: '$$mdi:keyboard-space$$', h: SYMBOL}
   - {t: '$$mdi:keyboard-return$$', h: SYSTEM}
