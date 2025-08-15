@@ -302,8 +302,8 @@ layers:
   - E
   - R
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: QWERTY, h: toggle}
+  - {t: COLEMAK, h: toggle}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -341,8 +341,8 @@ layers:
   - $$mdi:keyboard-esc$$
   - $$mdi:keyboard-space$$
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - {t: '$$mdi:keyboard-return$$', h: LOWER}
+  - {t: '$$mdi:keyboard-return$$', h: LOWER}
   LOWER:
   - {t: QWERTY, h: toggle}
   - {t: COLEMAK, h: toggle}
@@ -386,9 +386,9 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: GAMING, h: toggle}
+  - {t: GAMING, h: toggle, type: held alternate}
   - {t: SYSTEM, h: toggle}
   - {t: NUMBER, h: toggle}
   - {t: SYMBOL, h: toggle}
-  - {t: SYSTEM, h: toggle}
+  - {t: SYSTEM, h: toggle, type: held alternate}
   - {type: held}
