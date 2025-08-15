@@ -9,7 +9,7 @@ Additionally, you'll need some switches and keycaps.
 - **Switches**: I prefer the Yellow Gateron Pro Hot Swap 5Pin 50g Switches bought from [AliExpress](https://www.aliexpress.us/item/3256803154203988.html)
 - **Keycaps**: You can order your [custom keycap set](https://yuzukeycaps.com/c/bdfc50f2-9d9b-4a87-9f24-02cc43ce19a2) for the configuration from YUZU keycaps
 
-This configuration is inspired by [Miryoku](https://github.com/manna-harbour/miryoku_zmk) and contains a sleek looking customized nice!view shield inspired by [nice_view_gem](https://github.com/M165437/nice-view-gem) and it also generates a keymap for reference
+This configuration is inspired by [Miryoku](https://github.com/manna-harbour/miryoku_zmk) and contains a sleek looking customized nice!view shield inspired by [nice_view_gem](https://github.com/M165437/nice-view-gem) and it also generates a keymap for reference 
 
 **Total cost**: $154 (~$182 with tax and shipping) 
 
