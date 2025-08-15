@@ -14,7 +14,7 @@ layers:
   - O
   - P
   - {t: '-', s: _}
-  - $$mdi:alpha-w-box$$
+  - $$mdi:apple-keyboard-control$$
   - {t: A, h: LGUI}
   - {t: S, h: '$$mdi:apple-keyboard-option$$'}
   - {t: D, h: '$$mdi:apple-keyboard-control$$'}
@@ -79,11 +79,11 @@ layers:
   - {t: O, h: RGUI}
   - {t: ;, s: ':'}
   - $$mdi:apple-keyboard-shift$$
-  - Z
   - X
-  - C
+  - X
   - D
   - V
+  - Z
   - $$mdi:keyboard-space$$
   - $$mdi:arrow-down-bold$$
   - K
