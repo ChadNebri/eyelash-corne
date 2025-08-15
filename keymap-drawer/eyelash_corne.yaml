@@ -13,7 +13,7 @@ layers:
   - I
   - O
   - P
-  - {t: '-', s: _}
+  - {t: '$$mdi:backspace$$', type: backspace}
   - $$mdi:apple-keyboard-control$$
   - {t: A, h: LGUI}
   - {t: S, h: '$$mdi:apple-keyboard-option$$'}
@@ -45,7 +45,7 @@ layers:
   - $$mdi:keyboard-tab$$
   - {t: '$$mdi:backspace-reverse-outline$$', h: GAMING}
   - {t: '$$mdi:apple-keyboard-command$$', h: SYSTEM}
-  - {t: '$$mdi:backspace$$', h: NUMBER}
+  - {t: '$$mdi:keyboard-space$$', h: NUMBER}
   - {t: '$$mdi:keyboard-space$$', h: SYMBOL}
   - {t: '$$mdi:keyboard-return$$', h: SYSTEM}
   - {t: '$$mdi:keyboard-tab$$', h: LOWER}
