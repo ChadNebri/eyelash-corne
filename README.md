@@ -11,7 +11,7 @@ Additionally, you'll need some switches and keycaps.
 
 This configuration is inspired by [Miryoku](https://github.com/manna-harbour/miryoku_zmk) and contains a sleek looking customized nice!view shield inspired by [nice_view_gem](https://github.com/M165437/nice-view-gem) and it also generates a keymap for reference 
    
-**Total cost**: $154 (~$182 with tax and shipping)    
+**Total cost**: $154 (~$182 with tax and shipping)     
 
 ## Instructions
 
