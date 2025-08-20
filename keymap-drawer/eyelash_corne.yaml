@@ -1,54 +1,5 @@
 layout: {zmk_keyboard: eyelash_corne}
 layers:
-  QWERTY:
-  - $$mdi:keyboard-esc$$
-  - Q
-  - W
-  - E
-  - R
-  - T
-  - $$mdi:arrow-up-bold$$
-  - Y
-  - U
-  - I
-  - O
-  - P
-  - {t: '-', s: _}
-  - $$mdi:apple-keyboard-control$$
-  - {t: A, h: LGUI}
-  - {t: S, h: '$$mdi:apple-keyboard-option$$'}
-  - {t: D, h: '$$mdi:apple-keyboard-control$$'}
-  - {t: F, h: '$$mdi:apple-keyboard-shift$$'}
-  - G
-  - $$mdi:arrow-left-bold$$
-  - {t: '$$mdi:keyboard-return$$', type: enter}
-  - $$mdi:arrow-right-bold$$
-  - H
-  - {t: J, h: '$$mdi:apple-keyboard-shift$$'}
-  - {t: K, h: '$$mdi:apple-keyboard-control$$'}
-  - {t: L, h: '$$mdi:apple-keyboard-option$$'}
-  - {t: ;, h: RGUI, s: ':'}
-  - {t: '''', s: '"'}
-  - $$mdi:apple-keyboard-shift$$
-  - Z
-  - X
-  - C
-  - V
-  - B
-  - $$mdi:volume-off$$
-  - $$mdi:arrow-down-bold$$
-  - N
-  - M
-  - {t: ',', s: <}
-  - {t: ., s: '>'}
-  - {t: /, s: '?'}
-  - $$mdi:keyboard-tab$$
-  - {t: '$$mdi:backspace-reverse-outline$$', h: GAMING}
-  - {t: '$$mdi:apple-keyboard-command$$', h: SYSTEM}
-  - {t: '$$mdi:backspace$$', h: NUMBER}
-  - {t: '$$mdi:keyboard-space$$', h: SYMBOL}
-  - {t: '$$mdi:keyboard-return$$', h: SYSTEM}
-  - {t: '$$mdi:keyboard-tab$$', h: LOWER}
   COLEMAK:
   - $$mdi:keyboard-esc$$
   - Q
@@ -88,6 +39,55 @@ layers:
   - $$mdi:arrow-down-bold$$
   - K
   - H
+  - {t: ',', s: <}
+  - {t: ., s: '>'}
+  - {t: /, s: '?'}
+  - $$mdi:keyboard-tab$$
+  - {t: '$$mdi:backspace-reverse-outline$$', h: GAMING}
+  - {t: '$$mdi:apple-keyboard-command$$', h: SYSTEM}
+  - {t: '$$mdi:backspace$$', h: NUMBER}
+  - {t: '$$mdi:keyboard-space$$', h: SYMBOL}
+  - {t: '$$mdi:keyboard-return$$', h: SYSTEM}
+  - {t: '$$mdi:keyboard-tab$$', h: LOWER}
+  QWERTY:
+  - $$mdi:keyboard-esc$$
+  - Q
+  - W
+  - E
+  - R
+  - T
+  - $$mdi:arrow-up-bold$$
+  - Y
+  - U
+  - I
+  - O
+  - P
+  - {t: '-', s: _}
+  - $$mdi:apple-keyboard-control$$
+  - {t: A, h: LGUI}
+  - {t: S, h: '$$mdi:apple-keyboard-option$$'}
+  - {t: D, h: '$$mdi:apple-keyboard-control$$'}
+  - {t: F, h: '$$mdi:apple-keyboard-shift$$'}
+  - G
+  - $$mdi:arrow-left-bold$$
+  - {t: '$$mdi:keyboard-return$$', type: enter}
+  - $$mdi:arrow-right-bold$$
+  - H
+  - {t: J, h: '$$mdi:apple-keyboard-shift$$'}
+  - {t: K, h: '$$mdi:apple-keyboard-control$$'}
+  - {t: L, h: '$$mdi:apple-keyboard-option$$'}
+  - {t: ;, h: RGUI, s: ':'}
+  - {t: '''', s: '"'}
+  - $$mdi:apple-keyboard-shift$$
+  - Z
+  - X
+  - C
+  - V
+  - B
+  - $$mdi:volume-off$$
+  - $$mdi:arrow-down-bold$$
+  - N
+  - M
   - {t: ',', s: <}
   - {t: ., s: '>'}
   - {t: /, s: '?'}
@@ -302,8 +302,8 @@ layers:
   - E
   - R
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: QWERTY, h: toggle}
   - {t: COLEMAK, h: toggle}
+  - {t: QWERTY, h: toggle}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -344,8 +344,8 @@ layers:
   - {t: '$$mdi:keyboard-return$$', h: LOWER}
   - {t: '$$mdi:keyboard-return$$', h: LOWER}
   LOWER:
-  - {t: QWERTY, h: toggle}
   - {t: COLEMAK, h: toggle}
+  - {t: QWERTY, h: toggle}
   - {t: ENGRAM, h: toggle}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
