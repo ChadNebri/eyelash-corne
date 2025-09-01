@@ -12,7 +12,7 @@ layers:
   - L
   - U
   - Y
-  - .
+  - {t: ;, s: ':'}
   - {t: '-', s: _}
   - Gui+$$mdi:keyboard-tab$$
   - {t: A, h: LGUI}
@@ -28,7 +28,7 @@ layers:
   - {t: E, h: '$$mdi:apple-keyboard-control$$'}
   - {t: I, h: '$$mdi:apple-keyboard-option$$'}
   - {t: O, h: RGUI}
-  - {t: ;, s: ':'}
+  - <
   - $$mdi:apple-keyboard-shift$$
   - Z
   - X
