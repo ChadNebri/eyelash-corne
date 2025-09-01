@@ -288,8 +288,8 @@ layers:
   - PG UP
   - END
   - '&studio_unlock'
-  - '&bl BL_ON'
-  - {type: held}
+  - RGB HUD
+  - {t: RGB HUI, type: held}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {type: held alternate}
