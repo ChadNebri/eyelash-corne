@@ -29,7 +29,7 @@ layers:
   - {t: I, h: '$$mdi:apple-keyboard-option$$'}
   - {t: O, h: RGUI}
   - <
-  - $$mdi:apple-keyboard-shift$$
+  - Gui+Sft+S
   - Z
   - X
   - C
