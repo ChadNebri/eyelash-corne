@@ -2,7 +2,7 @@
 
 ![corne mx wireless](images/eyelash_corne.jpg)  
 
-This ZMK configuration is for a keyboard with a rotary encoder and a pointer device available at [xcmkb](https://xcmkb.com/products/wireless-corne-mx-joystick), [panadakb](https://pandakb.com/products/keyboard-kit/corne-j-zmk-wireless-keyboard-with-5-way-switch-and-knob/) and [AliExpress](https://www.aliexpress.us/item/3256807449244665.html)
+This ZMK configuration is for a keyboard with a rotary encoder and a pointer device available at [xcmkb](https://xcmkb.com/products/wireless-corne-mx-joystick), [panadakb](https://pandakb.com/products/keyboard-kit/corne-j-zmk-wireless-keyboard-with-5-way-switch-and-knob/) and [AliExpress](https://www.aliexpress.us/item/3256807449244665.html) 
 
 Additionally, you'll need some switches and keycaps. 
  
