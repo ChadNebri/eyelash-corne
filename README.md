@@ -5,7 +5,7 @@
 This ZMK configuration is for a keyboard with a rotary encoder and a pointer device available at [xcmkb](https://xcmkb.com/products/wireless-corne-mx-joystick), [panadakb](https://pandakb.com/products/keyboard-kit/corne-j-zmk-wireless-keyboard-with-5-way-switch-and-knob/) and [AliExpress](https://www.aliexpress.us/item/3256807449244665.html)
 
 Additionally, you'll need some switches and keycaps. 
-
+ 
 - **Switches**: I prefer the Yellow Gateron Pro Hot Swap 5Pin 50g Switches bought from [AliExpress](https://www.aliexpress.us/item/3256803154203988.html)
 - **Keycaps**: You can order your [custom keycap set](https://yuzukeycaps.com/c/bdfc50f2-9d9b-4a87-9f24-02cc43ce19a2) for the configuration from YUZU keycaps
 
