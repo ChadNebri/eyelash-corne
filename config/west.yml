@@ -10,10 +10,15 @@ manifest:
       url-base: https://github.com/petejohanson
     - name: crizzy9
       url-base: http://github.com/crizzy9
+    - name: chad-nebri         # 👈 added this (name can be anything unique)
+      url-base: https://github.com/ChadNebri
   projects:
     - name: zmk
       remote: petejohanson
       revision: feat/pointers-with-input-processors
       import: app/west.yml
+    - name: nice-shield-spacemarine    # 👈 added this
+      remote: chad-nebri
+      revision: main
   self:
     path: config
